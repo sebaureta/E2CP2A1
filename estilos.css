@@ -1,0 +1,75 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	padding-top: 30px;
+    width: 80%;
+    margin-left: 10%;
+  	position: absolute;
+    z-index: 1;
+}
+
+#logo {
+	width: 200px;
+}
+
+ul {
+
+		list-style-type: none;
+		color:grey;
+		float: right;
+		margin-right: 100px;
+		margin-top: 20px;
+	}
+li{
+	display: inline;
+	padding: 10px;
+}
+header{
+
+	background-image: url("images/bg.jpeg");
+	background-size:cover;
+	position: relative;
+	padding:100px;
+	margin: 0;
+
+	}
+	.botones {
+	width: 200px;
+    margin: 30px auto;
+
+	}
+	h1{
+		text-align: center;
+		color: white;
+		margin:0;
+	}
+
+
+	h5{
+		text-align: center;
+		color: white;
+	}
+
+div {
+	margin: 0;
+	}
+
+
+h4 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#personas{
+
+	display: block;
+	margin: auto;
+	width: 400px;
+}
