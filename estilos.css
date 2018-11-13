@@ -137,18 +137,31 @@ h6{
 	width: 100%;
 }
 
+.div2{
+	padding: 20px;
+	background-color: grey;
+	border-color: black;
+	border-style: solid;
+	border-left: 1px;
+    border-right: 1px;
+}
+
 .div3{
 
-	width: 400px;
+	width: 45%;
 	float: left;
 	margin-left: 100px;
 }
 
 .div4{
 
-	width: 400px;
-	float: right;
+	width: 33%;
+	float: left;
 	margin-right: 100px;
+}
+
+.linka{
+	margin-left: 95px;
 }
 
 
